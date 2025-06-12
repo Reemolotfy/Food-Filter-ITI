@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Delicious recipes </h1>
+            <p class="subtitle">Discover exquisite recipes from around the world</p>
+            
+            <nav class="filter-nav">
+                <button class="filter-btn active" data-food="pizza">Pizza</button>
+                <button class="filter-btn" data-food="pasta">Pasta</button>
+                <button class="filter-btn" data-food="beef">Beef</button>
+                <button class="filter-btn" data-food="salad">Salad</button>
+            </nav>
+        </header>
+        
+        <div id="food-container" class="gallery">
+            <div class="loading">Select a category to explore recipes</div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
