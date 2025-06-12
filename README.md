@@ -18,14 +18,6 @@ This web app lets users filter food recipes like pizza, pasta, and more using a 
 
 ---
 
-## 📸 Screenshots
-
-| Filter View | Recipe Cards |
-|-------------|--------------|
-| ![Filter UI](https://i.imgur.com/QWqOYDw.png) | ![Food Cards](https://i.imgur.com/29I2Wos.png) |
-
----
-
 ## 🚀 Getting Started
 
 To run this locally:
